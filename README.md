@@ -24,12 +24,15 @@ Section A
 This section shows the working of Crozzle produced 
  
  ![alt text](https://raw.githubusercontent.com/montypanday/crozzle/master/1.png)
+ 
 Figure 1 Marking Test 1 - Crozzle
 Here is the window which shows all the errors. It is empty now because there were no errors.
 
+ ![alt text](https://raw.githubusercontent.com/montypanday/crozzle/master/2.png)
  
 Figure 2 Marking Test 1 - Error Form
 
+ ![alt text](https://raw.githubusercontent.com/montypanday/crozzle/master/3.png)
  
 Figure 3 Marking Test 1 - Log File
 
@@ -37,22 +40,34 @@ Figure 3 Marking Test 1 - Log File
 Section B
 This Section shows the use of second set of data in Marking Files folder. In this case, there are errors while loading the initial configuration. Note that the Crozzle is invalid but I am still displaying it because it gives indication to solving visible errors like this
 
+ ![alt text](https://raw.githubusercontent.com/montypanday/crozzle/master/4.png)
  
 Figure 4 Marking Test - 2 Crozzle
 
 Error detection becomes easy If Crozzle is displayed regardless of validity.
 The errors below are different from those which are found when we try to get the Score. These errors show that the three data files are invalid.
  
+ ![alt text](https://raw.githubusercontent.com/montypanday/crozzle/master/5.png)
+ 
 Figure 5 Marking Test 2 - Error Form
 
 User may try to calculate the score but it will not be successful. Note how the score is displayed below. 
+
+![alt text](https://raw.githubusercontent.com/montypanday/crozzle/master/6.png)
+
 Figure 6 Marking 2 Form - Invalid Score
+ 
+ ![alt text](https://raw.githubusercontent.com/montypanday/crozzle/master/7.png)
  
 Figure 7 Marking Test 2 - Log File
 Section C
 In Marking Test 3, the configuration file, Crozzle file and word list files were Valid but after validation it was found that Outcome (Crozzle) is invalid and hence score was not calculated. Figure 8 Marking Test 3 – Crozzle
  
+ ![alt text](https://raw.githubusercontent.com/montypanday/crozzle/master/8.png)
+ 
 Figure 9 Marking Test 3 - Error form
+ 
+ ![alt text](https://raw.githubusercontent.com/montypanday/crozzle/master/9.png)
  
 Figure 10 Marking Test 3 - Log File
 
