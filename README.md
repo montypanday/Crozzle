@@ -23,6 +23,7 @@ This provides the understanding of the Crozzle application using three set of in
 Section A
 This section shows the working of Crozzle produced 
  
+ ![alt text](https://raw.githubusercontent.com/montypanday/crozzle/master/1.png)
 Figure 1 Marking Test 1 - Crozzle
 Here is the window which shows all the errors. It is empty now because there were no errors.
 
